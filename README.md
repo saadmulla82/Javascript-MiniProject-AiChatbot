@@ -1,1 +1,1 @@
-# Jaascript-MiniProject-AiChatbot
+# Javascript-MiniProject-AiChatbot
